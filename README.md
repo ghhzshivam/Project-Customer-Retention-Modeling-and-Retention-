@@ -1,6 +1,6 @@
  Customer Retention Modeling and Retention 
-
-Problem Statment: Find out the resons why the customers are churing away from the company. 
+ 
+Problem Statment: Find out the reasons why the customers are churning away from the company.
 
 This Project is about customer retention for the telecom domain. The customer life cycle of the company is : 
      Customer Acquisition: The company brings new customers through discounts and ads.
