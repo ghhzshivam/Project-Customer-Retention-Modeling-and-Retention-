@@ -1,18 +1,21 @@
  Customer Retention Modeling and Retention 
-   
-    This Project is about the customer retention for the telecom domain. Customer life cycle of the company is : 
-    Customer Aquisition : The company brings new customer by discount and ads.
-    Customer Early Engagement : Customers are encourged to use service.
-    Cross-Sell and Growth : Selling more services and making customer more engaged.
-    Customer Retention : Acesses on the basis of profitability and retain customers.
 
-    This project is about the customer Retention the the customer life cycle.
+Problem Statment: Find out the resons why the customers are churing away from the company. 
 
-    There are two approaches to retain the customers:
-    Reactive approach: The customer calls and wants to cancel the paln then based on the Profitability assessment offers are made.
-    Proactive approach : Predicting which customers are likely to churn away. 
-        
-    This project is about the Proactive approach. I Tried to find out the major resons why the customers are churnig away.
+This Project is about customer retention for the telecom domain. The customer life cycle of the company is : 
+     Customer Acquisition: The company brings new customers through discounts and ads.
+     Customer Early Engagement: Customers are encouraged to use the service.
+     Cross-Sell and Growth: Selling more services and making customers more engaged.
+     Customer Retention: Accesses on the basis of profitability and retaining customers.
+
+This project is about customer Retention the customer life cycle.
+
+There are two approaches to retain customers:
+Reactive approach: The customer calls and wants to cancel the plan then based on the Profitability assessment offers are made.
+Proactive approach: Predicting which customers are likely to churn away. 
+    
+This project is about the Proactive approach. I tried to find out the major reasons why the customers are churning away.
+way.
     
     # DataSet
     This dataset is from customer data from a telecom company Where they want to know which people are going to churn away from the company
@@ -42,11 +45,10 @@
     Churn             : The status of the customer churn (Yes, No)
     
     
-    Recommendations
-         Based on the modelling I find out some problems so to takle them the following recommendations:
+   
+ Recommendations
+         Based on the modeling I find out some problems so to tackle them the following recommendations:
          Device Protection with Online Services
-         Convert customer to DSL if they are facing challenges with Fiber Optics
+         Convert customers to DSL if they are facing challenges with Fiber Optics
          Offer discounts on Yearly contracts
-
-
 
