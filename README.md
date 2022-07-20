@@ -2,6 +2,8 @@
  
 Problem Statment: Find out the reasons why the customers are churning away from the company.
 
+![Customer-Retention-means](https://user-images.githubusercontent.com/45498501/179993093-cf1cb7b0-a24b-4d39-b872-b823e03a144c.png)
+
 This Project is about customer retention for the telecom domain. The customer life cycle of the company is : 
      Customer Acquisition: The company brings new customers through discounts and ads.
      Customer Early Engagement: Customers are encouraged to use the service.
