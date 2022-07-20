@@ -2,7 +2,8 @@
  
 Problem Statment: Find out the reasons why the customers are churning away from the company.
 
-![Customer-Retention-means](https://user-images.githubusercontent.com/45498501/179993093-cf1cb7b0-a24b-4d39-b872-b823e03a144c.png)
+Customer Acquisition Vs Customer Retention
+![image1](https://user-images.githubusercontent.com/45498501/179993720-7153a7e0-0d9f-45a4-9b15-d41efe7b5de0.png)
 
 This Project is about customer retention for the telecom domain. The customer life cycle of the company is : 
      Customer Acquisition: The company brings new customers through discounts and ads.
@@ -53,4 +54,4 @@ way.
          Device Protection with Online Services
          Convert customers to DSL if they are facing challenges with Fiber Optics
          Offer discounts on Yearly contracts
-
+![Customer-Retention-means](https://user-images.githubusercontent.com/45498501/179993093-cf1cb7b0-a24b-4d39-b872-b823e03a144c.png)
