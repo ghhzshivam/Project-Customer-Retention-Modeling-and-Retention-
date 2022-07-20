@@ -1,15 +1,16 @@
  Customer Retention Modeling and Retention 
  
 Problem Statment: Find out the reasons why the customers are churning away from the company.
+![Customer-Retention-means](https://user-images.githubusercontent.com/45498501/179993093-cf1cb7b0-a24b-4d39-b872-b823e03a144c.png)
 
 Customer Acquisition Vs Customer Retention
 ![image1](https://user-images.githubusercontent.com/45498501/179993720-7153a7e0-0d9f-45a4-9b15-d41efe7b5de0.png)
 
 This Project is about customer retention for the telecom domain. The customer life cycle of the company is : 
-     Customer Acquisition: The company brings new customers through discounts and ads.
-     Customer Early Engagement: Customers are encouraged to use the service.
-     Cross-Sell and Growth: Selling more services and making customers more engaged.
-     Customer Retention: Accesses on the basis of profitability and retaining customers.
+1) Customer Acquisition: The company brings new customers through discounts and ads.
+2) Customer Early Engagement: Customers are encouraged to use the service.
+3) Cross-Sell and Growth: Selling more services and making customers more engaged.
+4) Customer Retention: Accesses on the basis of profitability and retaining customers.
 
 This project is about customer Retention the customer life cycle.
 
@@ -50,8 +51,8 @@ way.
     
    
  Recommendations
-         Based on the modeling I find out some problems so to tackle them the following recommendations:
-         Device Protection with Online Services
-         Convert customers to DSL if they are facing challenges with Fiber Optics
-         Offer discounts on Yearly contracts
-![Customer-Retention-means](https://user-images.githubusercontent.com/45498501/179993093-cf1cb7b0-a24b-4d39-b872-b823e03a144c.png)
+ Based on the modeling I find out some problems so to tackle them the following recommendations:
+1) Device Protection with Online Services.
+2) Convert customers to DSL if they are facing challenges with Fiber Optics.
+3) Offer discounts on Yearly contracts.
+
